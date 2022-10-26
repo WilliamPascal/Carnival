@@ -1,6 +1,6 @@
 # Welcome to Carnival!🥳
 
-Project description title format: __[\<Nickname> - Study - \<Platform>]__
+Project: __[Carnival - Study - C]__
 
 As you may have known, the original project I wrote was [Jungle - Study - Java]. It was aimed to train myself to see if or not I could generalise what I have learnt in the past of three years of studying Java.
 
